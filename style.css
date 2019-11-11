@@ -1,18 +1,18 @@
 h1 {
-  color: red;
+  color: rgba(255, 0, 0, 0.63);
 }
 h2 {
-  color: orange;
+  color: rgba(255, 166, 0, 0.767);
 }
 h3 {
-  color: yellow;
+  color: rgba(255, 255, 0, 0.5);
 }
 h4 {
-  color: green;
+  color: rgba(0, 128, 0, 0.596);
 }
 h5 {
-  color: blue;
+  color: rgba(0, 0, 255, 0.527);
 }
 h6 {
-  color: indigo;
+  color: rgba(76, 0, 130, 0.705);
 }
